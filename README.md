@@ -2,12 +2,12 @@
 The implementation of DPD biomarker discovery system proposed in 
 "<em>Finding neural correlates of depersonalisation/derealisation disorder via explainable CNN-based analysis guided by clinical assessment scores</em>".
 The original paper can be found on <a href="https://www.sciencedirect.com/science/article/abs/pii/S0933365723002695">Artificial Intelligence in Medicine</a>.
-If you find this work useful in your research, please cite:
+<br>If you find this work useful in your research, please cite:
 <br><br>A. Salami, J. Andreu-Perez and H. Gillmeister, 
 "Finding neural correlates of depersonalisation/derealisation disorder via explainable CNN-based analysis guided by clinical assessment scores," 
 in <em>Artificial Intelligence in Medicine</em>, doi: 10.1016/j.artmed.2023.102755.
 ## Prerequisites
-<li>The code is based on Python 3.11.3 and TensorFlow 2.15.0.</li> 
+The code is based on Python 3.11.3 and TensorFlow 2.15.0.
 
 ## Usage
 You can download the DPD dataset from the following link: <a href="https://github.com/AbbasSalami/DPD_Analysis/releases/tag/v1.0">Download DPD Dataset</a>
