@@ -2,7 +2,7 @@
 The implementation of DPD biomarker discovery system proposed in 
 "<em>Finding neural correlates of depersonalisation/derealisation disorder via explainable CNN-based analysis guided by clinical assessment scores</em>".
 The original paper can be found on <a href="https://www.sciencedirect.com/science/article/abs/pii/S0933365723002695">Artificial Intelligence in Medicine</a>.
-<br>If you find this work useful in your research, please cite:
+<br><br>If you find this work useful in your research, please cite:
 <br><br>A. Salami, J. Andreu-Perez and H. Gillmeister, 
 "Finding neural correlates of depersonalisation/derealisation disorder via explainable CNN-based analysis guided by clinical assessment scores," 
 in <em>Artificial Intelligence in Medicine</em>, doi: 10.1016/j.artmed.2023.102755.
