@@ -11,7 +11,7 @@ in <em>Artificial Intelligence in Medicine</em>, doi: 10.1016/j.artmed.2023.1027
 <li>The code is based on Python 3.11.3 and TensorFlow 2.15.0.</li> 
 
 ## Usage
-More information coming soon ... 
+You can download the DPD dataset from the following link: <a href="https://github.com/AbbasSalami/DPD_Analysis/releases/tag/v1.0">Download DPD Dataset</a>
 
 ## License
 Abbas Salami - University of Essex (C) ALL RIGHTS RESERVED - ATTRIBUTION IS REQUIRED. NON-COMMERCIAL USE, NO DERIVATIVES, NO REDISTRIBUTION WITHOUT EXPLICIT CONSENT OF THEIR AUTHOR (a.salami@essex.ac.uk)
