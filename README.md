@@ -7,7 +7,6 @@ If you find this work useful in your research, please cite:
 "Finding neural correlates of depersonalisation/derealisation disorder via explainable CNN-based analysis guided by clinical assessment scores," 
 in <em>Artificial Intelligence in Medicine</em>, doi: 10.1016/j.artmed.2023.102755.
 ## Prerequisites
-<li>The code was run on <a href="https://www.nvidia.com/en-us/geforce/products/10series/titan-x-pascal/">NVIDIA TITAN X</a> (CUDA 10.1 and cuDNN 7.6.0).</li> 
 <li>The code is based on Python 3.11.3 and TensorFlow 2.15.0.</li> 
 
 ## Usage
